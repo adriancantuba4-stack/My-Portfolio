@@ -5,3 +5,7 @@
 | Adrian | Cantuba |
 |--------|---------|
 |        |         |
+### Favorite color
+-Yellow
+-Blue
+-White

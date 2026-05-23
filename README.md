@@ -5,7 +5,6 @@
 | Adrian | Cantuba |
 |--------|---------|
 | Birthday | October17,2006 |
-|---------|--------|
 | Contact No| 09166859362 |            
 ### Favorite Color
 + Black

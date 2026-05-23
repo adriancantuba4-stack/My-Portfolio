@@ -5,10 +5,14 @@
 | Adrian | Cantuba |
 |--------|---------|
 |        |         |
-### Favorite color
+### Favorite Color
 + Yellow
 + Blue
 + White
+### Favorite Food
++ Carbonara
++ Adobo
++ Sinigang
 
 <u> Adrian </u>
 

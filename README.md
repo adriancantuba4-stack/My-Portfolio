@@ -18,5 +18,5 @@
 
 > *"Adrian Cantuba"*
 
-ABOUT ME
-I want to know what is sex
+## ABOUT ME
+I'm Adrian Cantuba taking bachelor of science in electronic engineering at Fulbright College. 

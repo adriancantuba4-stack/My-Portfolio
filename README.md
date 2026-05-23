@@ -4,7 +4,7 @@
 *Adrian*
 | Adrian | Cantuba |
 |--------|---------|
-|        |         |
+| Birthday | October17,2006 |              
 ### Favorite Color
 + Black
 + Blue

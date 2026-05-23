@@ -6,6 +6,6 @@
 |--------|---------|
 |        |         |
 ### Favorite color
-+Yellow
-+Blue
-+White
++ Yellow
++ Blue
++ White

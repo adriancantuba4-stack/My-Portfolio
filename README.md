@@ -25,3 +25,11 @@ I'm Adrian Cantuba taking bachelor of science in electronic engineering at Fulbr
 - Balance and met multiple deadlines
 - Learned multiple coding language
 - Developing website
+
+## Hobbies
+- Playing online games
+- Reading a history book
+- Watching horror
+- Eating
+
+
